@@ -188,3 +188,5 @@ This project helped strengthen my understanding of:
 
 Aspiring Data Analyst / Data Science Learner
 Currently learning Python and its libraries, Data Analysis, and Machine Learning.
+Email: nirmalforcollege@gmail.com
+phone: +91 6003539376
